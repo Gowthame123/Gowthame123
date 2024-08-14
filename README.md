@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data cleaning, EDA and Data visualization**
 
-- 📫 How to reach me **gowthame82000@gmail.com**
+- 📫 How to reach me **gowthame2800@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
