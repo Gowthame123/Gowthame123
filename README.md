@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gowthame123" alt="gowthame123" /></a> </p>
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **LLM**
 
-- 💬 Ask me about **Data cleaning, EDA and Data visualization**
+- 💬 Ask me about **Machine Learning, Data cleaning, EDA and Data visualization**
 
 - 📫 How to reach me **gowthame2800@gmail.com**
 
